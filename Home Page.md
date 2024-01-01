@@ -5,16 +5,16 @@ An organized space to detail the nuances of the dark sci-fi webnovel, *Ancora Mu
 Published on Royal Road. Click [here](https://www.royalroad.com/fiction/77756/ancora-mundori) to check it out for free!
 
 ## Appendix Mundori
-Ancora Historia
+[Ancora Historia](Pages/Ancora%20Historia.md)
 
-The Law of the Arbiter-7
+[The Law of the Arbiter-7](Pages/The%20Law%20of%20the%20Arbiter-7.md)
 
-Entity Index
+[Entity Index](Pages/Entity%20Index.md)
 
-The Science of *Ancora Mundori*
+[The Science of *Ancora Mundori*](Pages/The%20Science%20of%20AM.md)
 
-Character Catalog
+[Character Catalog](Pages/Character%20Catalog.md)
 
-Author Updates
+[Author's Updates](Pages/Author%20Updates.md)
 
-Discussion
+[Discussion](Pages/Discussions.md)
