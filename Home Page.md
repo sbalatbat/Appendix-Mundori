@@ -5,16 +5,16 @@ An organized space to detail the nuances of the dark sci-fi webnovel, *Ancora Mu
 Published on Royal Road. Click [here](https://www.royalroad.com/fiction/77756/ancora-mundori) to check it out for free!
 
 ## Appendix Mundori
-[Ancora Historia](Pages/Ancora%20Historia.md)
+[Ancora Historia](https://sbalatbat.github.io/Appendix-Mundori/Ancora%20Historia.html)
 
-[The Law of the Arbiter-7](Pages/The%20Law%20of%20the%20Arbiter-7.md)
+[The Law of the Arbiter-7](https://sbalatbat.github.io/Appendix-Mundori/The%20Law%20of%20the%20Arbiter-7.html)
 
-[Entity Index](Pages/Entity%20Index.md)
+[Entity Index](https://sbalatbat.github.io/Appendix-Mundori/Entity%20Index.html)
 
-[The Science of *Ancora Mundori*](Pages/The%20Science%20of%20AM.md)
+[The Science of *Ancora Mundori*](https://sbalatbat.github.io/Appendix-Mundori/The%20Science%20of%20AM.html)
 
-[Character Catalog](Pages/Character%20Catalog.md)
+[Character Catalog](https://sbalatbat.github.io/Appendix-Mundori/Character%20Catalog.html)
 
-[Author's Updates](Pages/Author%20Updates.md)
+[Author's Updates](https://sbalatbat.github.io/Appendix-Mundori/Author%20Updates.html)
 
-[Discussion](Pages/Discussions.md)
+[Discussion](https://sbalatbat.github.io/Appendix-Mundori/Discussions.html)
